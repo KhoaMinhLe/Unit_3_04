@@ -1,0 +1,88 @@
+[
+  {
+    "nodes" : [
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{6, 326}, {528, 32}}",
+        "class" : "Label",
+        "attributes" : {
+          "name" : "year_label",
+          "frame" : "{{195, 254}, {150, 32}}",
+          "uuid" : "BBAFBB37-F183-4579-8046-38BDFE6FF2E0",
+          "class" : "Label",
+          "alignment" : "center",
+          "text" : "",
+          "font_size" : 18,
+          "font_name" : "<System>"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{228, 248}, {83, 32}}",
+        "class" : "Button",
+        "attributes" : {
+          "action" : "enter_touch_up_inside",
+          "frame" : "{{230, 254}, {80, 32}}",
+          "title" : "Enter",
+          "uuid" : "F931B493-17E2-4A1D-B099-057A265A2B3D",
+          "class" : "Button",
+          "name" : "enter_button",
+          "font_size" : 15
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{131, 119}, {280, 32}}",
+        "class" : "Label",
+        "attributes" : {
+          "name" : "question_label",
+          "frame" : "{{195, 254}, {150, 32}}",
+          "uuid" : "913A4C78-1674-48ED-BEEA-AF6AB430BDDC",
+          "class" : "Label",
+          "alignment" : "center",
+          "text" : "Enter CE (Common Era) year.",
+          "font_size" : 18,
+          "font_name" : "<System>"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{169, 200}, {200, 32}}",
+        "class" : "TextField",
+        "attributes" : {
+          "name" : "year_textfield",
+          "frame" : "{{170, 254}, {200, 32}}",
+          "spellchecking_type" : "default",
+          "class" : "TextField",
+          "uuid" : "36D162C3-5BDB-4EFA-B93C-C992710BE549",
+          "alignment" : "left",
+          "autocorrection_type" : "default",
+          "font_size" : 17,
+          "font_name" : "<System>"
+        },
+        "selected" : false
+      }
+    ],
+    "frame" : "{{0, 0}, {540, 540}}",
+    "class" : "View",
+    "attributes" : {
+      "enabled" : true,
+      "background_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+      "tint_color" : "RGBA(0.000000,0.478000,1.000000,1.000000)",
+      "border_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+      "flex" : ""
+    },
+    "selected" : false
+  }
+]
